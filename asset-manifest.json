@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Sam27bro/robots-updated/static/css/main.2c31e32e.css",
-    "main.js": "/Sam27bro/robots-updated/static/js/main.e1548b0f.js",
-    "service-worker.js": "/Sam27bro/robots-updated/service-worker.js",
-    "static/media/SEGA.woff": "/Sam27bro/robots-updated/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/Sam27bro/robots-updated/index.html",
-    "main.2c31e32e.css.map": "/Sam27bro/robots-updated/static/css/main.2c31e32e.css.map",
-    "main.e1548b0f.js.map": "/Sam27bro/robots-updated/static/js/main.e1548b0f.js.map"
+    "main.css": "/robots-updated/static/css/main.ca821e1a.css",
+    "main.js": "/robots-updated/static/js/main.074c70c2.js",
+    "service-worker.js": "/robots-updated/service-worker.js",
+    "static/media/SEGA.woff": "/robots-updated/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robots-updated/index.html",
+    "main.ca821e1a.css.map": "/robots-updated/static/css/main.ca821e1a.css.map",
+    "main.074c70c2.js.map": "/robots-updated/static/js/main.074c70c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c31e32e.css",
-    "static/js/main.e1548b0f.js"
+    "static/css/main.ca821e1a.css",
+    "static/js/main.074c70c2.js"
   ]
 }
